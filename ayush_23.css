@@ -1,0 +1,58 @@
+
+    body {
+        background-image: url('https://img.freepik.com/free-vector/gradient-dynamic-blue-lines-background_23-2148995756.jpg?w=2000;');
+        background-repeat: no-repeat;
+        background-size: 2000px 1000px;
+        background-attachment: fixed;
+        color: #FFFFFF; 
+    
+    }
+
+    h1{
+        margin-top: 100px;
+      text-align:center ;
+      margin-right: 50px;
+      font-size: 65px;
+      color: rgb(19, 13, 13);
+     
+    }
+ 
+    h3{
+        margin-left: 100px;
+        margin-top: 45px;
+        margin-right: 50px;
+        font-size: 45px;
+        color: rgb(19, 13, 13);
+    
+    } 
+
+    h2{
+        text-align:left ;
+        margin-left: 100px;
+        margin-top: 50px;
+        font-size: 45px;
+        color: rgb(19, 13, 13);
+       
+
+    }
+
+
+    p{
+        text-align:left;
+        margin-top: 10px;
+        margin-left: 100px;
+        font-size: 25px;
+    }
+
+    li{
+        margin-left: 100px;
+        font-size: 25px;
+    }
+
+
+   
+
+    
+
+
+
